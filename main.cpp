@@ -1,3 +1,5 @@
+// "config.py" guide and creator, by tory#3784
+
 #include <iostream>
 #include <fstream>
 #include <conio.h>
